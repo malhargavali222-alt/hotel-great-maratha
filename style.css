@@ -27,3 +27,9 @@
     background-color:slategrey;
     padding: 0.5rem;
 }
+
+iframe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
